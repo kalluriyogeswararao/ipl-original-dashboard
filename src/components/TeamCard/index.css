@@ -1,0 +1,30 @@
+.team-name {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'bree serif';
+  text-align: center;
+}
+
+.team-logo {
+  width: 70px;
+  height: 65px;
+}
+
+.team {
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  padding: 15px;
+  width: 40%;
+  height: 140px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+  display: flex;
+}
+
+.each {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,82 @@
+* {
+  font-family: 'bree serif';
+}
+
+.competing-team-heading {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 45px;
+}
+
+.team-banner-image {
+  width: 100%;
+}
+
+.match-bg-container-details {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.match-bg-container-part {
+  background-color: #0f172a;
+  padding: 40px;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.matches {
+  align-self: flex-start;
+  color: #ffffff;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.date {
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.venue {
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.result {
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: 200;
+}
+
+.competing-team-logo {
+  width: 20%;
+  align-self: center;
+}
+
+.innigs-titles {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 200;
+  text-align: end;
+}
+
+.innig-result {
+  color: #ffffff;
+  font-size: 15px;
+  margin-top: 20px;
+  font-weight: 200;
+  text-align: end;
+}
+
+.details {
+  max-width: 30%;
+}

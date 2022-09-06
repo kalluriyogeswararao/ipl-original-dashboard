@@ -1,0 +1,23 @@
+.match-bg-container {
+  background-image: linear-gradient(#13418b, #4f5db0);
+  padding: 70px;
+}
+
+.rem-match-bg-container {
+  background-image: linear-gradient(to bottom, #a4261d, #d91c1f);
+  padding: 70px;
+}
+
+.all-matches {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.sing-match-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
